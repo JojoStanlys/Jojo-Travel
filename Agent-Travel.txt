@@ -3,3 +3,5 @@ Web Travel
 - ada beberapa tempat wisata yang menarik
 - gallery atau foto foto dari pengunjung travel
 - komentar pemakai agent travel
+- alamat dan contact travel
+- footer
